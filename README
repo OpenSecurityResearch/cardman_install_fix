@@ -1,0 +1,10 @@
+cardman_install_fix.sh
+by brad.antoniewicz@foundstone.com
+---------------------------------------------------
+
+Script to make the OmniKey CardMan 5321 work
+on Kali Linux (and others).
+
+See the full blog post on blog.opensecurityresearch.com
+
+
